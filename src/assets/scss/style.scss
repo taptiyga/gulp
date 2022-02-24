@@ -10,10 +10,14 @@ body {
     "Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,
     "Helvetica Neue",sans-serif;
     font-size: 1.4rem;
+    line-height: 1.5;
     color: white;
 }
 @import "blocks/page.scss";
 @import "blocks/header";
 @import "blocks/sidebar.scss";
 @import "blocks/main.scss";
-@import "blocks/container.scss"
+@import "blocks/container.scss";
+@import "blocks/profile.scss";
+@import "blocks/social.scss";
+@import "blocks/btn.scss";
